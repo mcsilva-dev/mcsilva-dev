@@ -25,7 +25,7 @@ Também já trabalhei com Java, TypeScript e C++.
 
 | Projeto | O que é |
 |---|---|
-| [**Trilha-BackEnd**](https://github.com/mcsilva-dev/Trilha-BackEnd) | API REST de gestão hospitalar (SGHSS) com FastAPI, SQLAlchemy, Alembic, MySQL, autenticação JWT e testes com pytest. |
+| [**Trilha-BackEnd**](https://github.com/mcsilva-dev/Trilha-BackEnd) | Projeto final da graduação em ADS: API REST para gestão hospitalar (SGHSS) com FastAPI, SQLAlchemy, Alembic, MySQL, autenticação JWT e testes automatizados com pytest. |
 | [**mcs-ai-editor**](https://github.com/mcsilva-dev/mcs-ai-editor) | Editor de vídeo open source (GPLv3) em C++20 + Qt 6 + FFmpeg, com geração de vídeo por IA integrada. |
 | [**PalWorld-Breeding-Calculator**](https://github.com/mcsilva-dev/PalWorld-Breeding-Calculator) | App desktop para Windows que lê o save do jogo e calcula a rota de cruzamento mais curta entre ~300 Pals. |
 | [**scraping-books**](https://github.com/mcsilva-dev/scraping-books) | Scraper que percorre o catálogo da editora Novatec com `urllib` e BeautifulSoup. |
